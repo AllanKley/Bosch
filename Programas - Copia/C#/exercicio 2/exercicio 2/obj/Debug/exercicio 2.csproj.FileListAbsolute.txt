@@ -1,0 +1,7 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb

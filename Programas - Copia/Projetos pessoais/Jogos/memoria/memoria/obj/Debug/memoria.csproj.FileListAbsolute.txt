@@ -1,0 +1,21 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\bin\Debug\memoria.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\bin\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\bin\Debug\memoria.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\obj\Debug\memoria.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\obj\Debug\memoria.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\obj\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\memoria\memoria\obj\Debug\memoria.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Lógica Programação\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\bin\Debug\memoria.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Allan Kley\Programas\Projetos pessoais\Jogos\memoria\memoria\obj\Debug\memoria.pdb
