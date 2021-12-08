@@ -1,0 +1,9 @@
+jogar codigo sql e print do resultado
+
+1- listar todos os produtos com as descrições, unidades e valor unitario (tab produto)
+
+codigo:
+select unidade_produto, descricao_produto, valor_unitario from produto;
+
+
+2- 
