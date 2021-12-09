@@ -121,6 +121,10 @@ values
 /*
 insert into item_do_pedido(num_pedido,cod_produto,quantidade)
 values
+(121,25,10),
+(121,31,35),
+(97,77,20),
+(101,31,9);
 (101,78,18),
 (101,13,5),
 (98,77,5),
@@ -150,12 +154,9 @@ values
 (137,13,8);
 */
 
+/*update cliente set cidade='Niteroi' where cidade='niteroi' or cidade='Niterói';*/
 
 
-
-
-
-
-
+Select nome_cliente, pedido.cod_cliente, num_pedido from cliente,pedido order by nome_cliente asc;
 
 
