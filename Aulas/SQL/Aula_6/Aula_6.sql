@@ -154,9 +154,14 @@ values
 (137,13,8);
 */
 
-/*update cliente set cidade='Niteroi' where cidade='niteroi' or cidade='Niterói';*/
+/*update vendedor set nome_vendedor='joão' where nome_vendedor='joao';*/
 
 
-Select nome_cliente, pedido.cod_cliente, num_pedido from cliente,pedido order by nome_cliente asc;
+/*Select nome_cliente, pedido.cod_cliente, num_pedido from cliente,pedido order by nome_cliente asc;*/
 
 
+
+
+
+
+select descricao_produto, valor_unitario from produto;
