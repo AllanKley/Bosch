@@ -9,6 +9,7 @@ void printArray(int arr[], int size);
 void insertionSort(int arr[], int size);
 void selectionSort (int arr[],int size);
 void bubbleSort (int arr[], int size);
+void printMenu();
 
 int main(){
 	
@@ -22,19 +23,12 @@ int main(){
 	 	
 	 	printf("VETOR EMBARALHADO: ");
 	    printArray(arr, size);
-	    printf("\n");
-	    printf("----------------------\n");
-	    printf("|        Menu:       |\n");
-	    printf("----------------------\n");
-	    printf("| 1) Insertion Sort  |\n");
-	    printf("| 2) Selection Sort  |\n");
-	    printf("| 3) Bubble Sort     |\n");
-	    printf("| 4) Sair            |\n");
-	    printf("----------------------\n\n");
-	    printf("---> ");
+	    
+	    printMenu();
+	    
 	    scanf("%d", &menu);
 	    
-	    if(menu==1){
+	    if(menu==1){ // OPCOES DO MENU
 	    	system("cls");
 	    	insertionSort(arr, size);
 	    	printf("\nDigite qualquer tecla para continuar\n");  
@@ -53,13 +47,23 @@ int main(){
 		}
 	}
 	
-    
-  
     return 0;
 }
 
+void printMenu(){
+	printf("\n");
+    printf("----------------------\n");
+    printf("|        Menu:       |\n");
+    printf("----------------------\n");
+    printf("| 1) Insertion Sort  |\n");
+    printf("| 2) Selection Sort  |\n");
+    printf("| 3) Bubble Sort     |\n");
+    printf("| 4) Sair            |\n");
+    printf("----------------------\n\n");
+    printf("---> ");
+}
 
-void embaralhar(int *arr, int size)
+void embaralhar(int *arr, int size) // GERA VALORES ALEATORIOS PARA O ARRAY
 {
 	srand(time(NULL));
 
@@ -69,7 +73,7 @@ void embaralhar(int *arr, int size)
         
 } 
 
-void printArray(int arr[], int size){
+void printArray(int arr[], int size){ // FUNCAO PARA MOSTRAR O ARRAY
     int i;
     for (i = 0; i < size; i++)
         printf("%d ", arr[i]);
